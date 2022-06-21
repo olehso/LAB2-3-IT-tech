@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/91610671/174828655-5fb9461b-eebc-4ece-9f50-db3e6e1003ad.png)
 
-Вывод данных о книге указанного автора: 
+Вывод книги указанного автора: 
 
 ![image](https://user-images.githubusercontent.com/91610671/174832376-fff0df66-83e1-40bd-87bc-e4560e897ceb.png)
 
@@ -21,6 +21,6 @@
 
 ![image](https://user-images.githubusercontent.com/91610671/174832723-c1cce5c3-07c4-45b4-9254-6d57b645682d.png)
 
-Вывод книг указанного издательства:
+Вывод книги указанного издательства:
 
 ![image](https://user-images.githubusercontent.com/91610671/174832873-2caba249-d915-408b-9ecd-e32aad4e8a3a.png)
